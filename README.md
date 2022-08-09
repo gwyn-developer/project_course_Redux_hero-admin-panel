@@ -1,6 +1,6 @@
 # project_course_Redux_hero-admin-panel
 
-Simple app - hero admin panel, which is the result of a course of Redux and React.
+Simple app - hero admin panel, which is the result of a course of Redux (using Redux Toolkit) and React.
 
 **Demo**: ...
 
