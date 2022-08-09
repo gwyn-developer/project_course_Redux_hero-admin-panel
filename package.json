@@ -1,9 +1,8 @@
 {
   "name": "hero_admin_panel",
   "version": "1.0.0",
-  "description": "Simple app - ",
-  "repository": "",
-  "homepage": "",
+  "description": "Simple app - hero admin panel",
+  "repository": "https://github.com/gwyn-developer/project_course_Redux_hero-admin-panel.git",
   "author": "Alexei Ovchinnikov <ovao89@mail.ru>",
   "license": "MIT",
   "keywords": [
@@ -13,7 +12,8 @@
     "css",
     "react",
     "react-hooks",
-    "redux"
+    "redux",
+    "redux toolkit"
   ],
   "private": true,
   "dependencies": {
